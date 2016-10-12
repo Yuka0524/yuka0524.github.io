@@ -1,0 +1,44 @@
+body {
+  font-fmily: sans-serif;
+  background: pink;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding: 10px;
+  
+}
+.thimbnail {
+ width: 18%;
+ height: auto;
+}
+
+#experience {
+  color: red;
+  
+}
+
+.name{
+  margib-bottom: 50px;
+}
+
+
+.container {
+  font-family: sans-serif;
+  width: 800px;
+  margin: 0 auto;
+  border: 1px solid black;
+  overflow: auto;
+}
+.left {
+  float: left;
+  width: 460px;
+  padding: 20px;
+}
+.right {
+  float: right;
+  width: 260px;
+  padding: 20px;
+  background: grey;
+  color: white;
+  min-height: 200px;
+}
